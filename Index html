@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Combat | GTPS</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #00c6ff, #0072ff);
+      color: white;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
+    p.description {
+      font-size: 1.2rem;
+      margin-bottom: 30px;
+    }
+    .rgb {
+      font-size: 2rem;
+      font-weight: bold;
+      background: linear-gradient(90deg, red, green, blue);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 30px;
+    }
+    .status {
+      background-color: #00ff88;
+      padding: 10px 20px;
+      border-radius: 10px;
+      font-size: 1.1rem;
+      display: inline-block;
+      margin-bottom: 30px;
+    }
+    .link-box {
+      background-color: rgba(255, 255, 255, 0.1);
+      padding: 20px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+    }
+    .link-box a {
+      color: #fff;
+      text-decoration: underline;
+      font-weight: bold;
+    }
+    pre {
+      background-color: rgba(0, 0, 0, 0.3);
+      padding: 15px;
+      border-radius: 10px;
+      text-align: left;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Combat</h1>
+  <p class="description">
+    Combat GTPS adalah server Growtopia Private Server (GTPS) dengan fitur unik dan server yang stabil. Dirancang untuk kamu yang ingin merasakan suasana baru dalam bermain GTPS tanpa lag dan penuh keseruan!
+  </p>
+
+  <div class="rgb">RGB</div>
+
+  <div class="status">Status Server: Online ✅</div>
+
+  <div class="link-box">
+    <p>🔗 Download vHost:</p>
+    <a href="https://www.mediafire.com/file/gxswy7fn3868f9x/Virtual_Hosts_v2.2.1.apk/file" target="_blank">
+      Download Virtual Hosts v2.2.1
+    </a>
+  </div>
+
+  <div class="link-box">
+    <p>📜 Copy pTunnel:</p>
+    <a href="https://gtpshost.com/combatps.txt" target="_blank">
+      https://gtpshost.com/combatps.txt
+    </a>
+  </div>
+
+  <div class="link-box">
+    <p>🖥️ Copy untuk Windows (Host File):</p>
+    <pre>
+91.134.85.13 growtopia1.com  
+91.134.85.13 growtopia2.com  
+91.134.85.13 www.growtopia1.com  
+91.134.85.13 www.growtopia2.com  
+91.134.85.13 RvLnd.here
+    </pre>
+  </div>
+</body>
+</html>
